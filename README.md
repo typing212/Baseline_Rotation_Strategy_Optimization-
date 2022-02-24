@@ -1,4 +1,4 @@
-# Coach, I want to play!
+# Baseline Rotation Strategy Optimization 
 Operation Research Project - provide a baseline rotation strategy based on the basketball players' fantasy point to theoretically maximize the team’s potential.
 
 ![image](https://user-images.githubusercontent.com/92670749/155437312-fb6f02b1-37e9-4b31-9430-1e32ef7150bc.png)
