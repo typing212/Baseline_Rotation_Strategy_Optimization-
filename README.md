@@ -1,6 +1,9 @@
 # Coach-I-want-to-play-
 Operation Research Project - provide a baseline rotation strategy based on the basketball players' fantasy point to theoretically maximize the team’s potential.
 
+![image](https://user-images.githubusercontent.com/92670749/155437312-fb6f02b1-37e9-4b31-9430-1e32ef7150bc.png)
+
+
 
 ## Context
 This project builds four models to solve the problem of how to arrange players based on their scoring ability (fantasy points) in a basketball game. The objective of all four models is to maximize the sum of fantasy points in a forty-eight-minute basketball game. The construction of the four models’ constraints is mainly a gradual exploration of the characteristics of the players’ scoring ability and physical strength in an actual situation.
